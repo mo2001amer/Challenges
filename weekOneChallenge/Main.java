@@ -98,10 +98,57 @@ public class Main {
 
         }
         while(k<=5);
+        System.out.println();
+// Sixth Challenge : Calculator
+    double num1 = 7;
+    double num2 = 3;
+    char operator = '+';
+    String again = "y";
+    while(again.equals("y"))
+   {
+    if(operator == '+')
+   {
+        System.out.println("Result: " + (num1 + num2));
 
+
+
+   }
+    else if(operator == '-')
+   {
+        System.out.println("Result: " + (num1 - num2));
+        
+
+
+   }
+   else if(operator == '*')
+   {
+        System.out.println("Result: " + (num1 * num2));
+        
+
+
+   }
+   else if(operator == '/' && num2 == 0) 
+   {
+        System.out.println("Can't divide by 0");
+        
+
+
+   }
+   else if(operator == '/')
+   {
+        System.out.println("Result: " + (num1 / num2));
+        
+
+
+   }
+   again = "n";
+   System.out.println("Thank you for using the calculator.");
+}   
 
     }
-   
+
+    
+   }
 
 
-}
+
