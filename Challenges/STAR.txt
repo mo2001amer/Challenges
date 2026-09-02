@@ -1,11 +1,29 @@
 STAR
-Tell me about a time you had a disagreement with a team mate? What was it and how did you fix solve?
-Tell me about a time you had to learn a new skill for your job?
-Describe a time you were under pressure at work. How did you react to it?
-Tell me about a time you made a mistake. What was it and how did you fix it?
-How do you adapt to sudden changes in the workplace?
-Describe a successful project you worked on as a part of a team?
-Give me an example when you when you took initiative?
-How do you organize your time?
-Give me an example of a time you had to complete a task with very little to no guidance?
-Describe a time when you had multiple tasks to complete under tight deadlines. How did you prioritize and manage your time?
+1. Tell me about a time you had a disagreement with a team mate? What was it and how did you fix solve?
+
+
+There was once a project I had to work on during my senior year in college, I had a disagreement with my teammate about the way to distribute team work. I wanted to break the the team into teams of two for each tech stack while he wanted us to tackle each tech stack one at a time as a whole group. As a leader in this group, I didn't want our disagreement to cause problem to our group and wanted to keep things professional. How I solved it was I asked the team to vote on how they wanted to approach the problem. The team liked that they are doing something that they voted for and my teammate felt appreciative that  I wasn't dismissive of his idea.
+
+
+2. Tell me about a time you had to learn a new skill for your job?
+
+I worked a project for Texas instrument and in this project they wanted us to use different technologies. One of the technologies was called OpenOCD and it was used for flashing hardware. As the leader of the group and the one responsible for things being turned in time. I had to learn how to use openOCD to help other teammates to finish that part of the project. I did that by breaking the problem down and identifying only whats necessary to learn to complete the project. That way we were able to finish the project in time. 
+
+
+
+
+3. Describe a time you were under pressure at work. How did you react to it?
+On a project that I was working on , we were nearing the due date without finishing the project. As a member of the team I wanted to see how Im able to get the team moving in the right direction. So what I did is wrote down what is left from the project. Then I asked the team what they are working on and gave them tasks that they are comfortable with. This way everyone knew his role and had better vision on what to work on even with short amount of time.
+
+
+
+
+4.Tell me about a time you made a mistake. What was it and how did you fix it?
+
+
+5.How do you adapt to sudden changes in the workplace?
+6.Describe a successful project you worked on as a part of a team?
+7.Give me an example when you when you took initiative?
+8.How do you organize your time?
+9.Give me an example of a time you had to complete a task with very little to no guidance?
+10.Describe a time when you had multiple tasks to complete under tight deadlines. How did you prioritize and manage your time?
