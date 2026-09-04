@@ -19,11 +19,25 @@ On a project that I was working on , we were nearing the due date without finish
 
 
 4.Tell me about a time you made a mistake. What was it and how did you fix it?
-
+I once was working on a project that had a front end and a backend. I was responsible to finish the front end part of the project. But due to my lack of experience in working with teammates on big projects I made of mistake of not communicating the JSON format to the backend team. We were later able to figure out the problem and I was able to fix it by telling my teammate about the mistake and planning the json format with them.
 
 5.How do you adapt to sudden changes in the workplace?
+As a teacher, I experienced sudden changes all the time. While I was teaching the students were able to finish the curriculum faster than others. I adapted to that by introducing new things for the faster students that was challenging enough for them, and tried to avoid discouraging the other students for being slower than the other classmates.
 6.Describe a successful project you worked on as a part of a team?
+A successful project that I worked on with a team was the social media project. Where I created a website where you login , comment , and post photos. I was proud of this project because it introduced me to web dev and it was nice to build an app that can be used by different people.
+
+
 7.Give me an example when you when you took initiative?
-8.How do you organize your time?
+On one of my project I took initiative and became the leader for the group. Being a leader for the group gave me experience on communicating with managers and clients and improved my requirement gathering skills.
+
+
+8.How do you organize your time in a tight schedule?
+In a tight schedule, I like to organize my time by having a calendar with all the due dates and having organized to do list. I also try to write every requirement down to be know what I need to prepare for.
+
+
 9.Give me an example of a time you had to complete a task with very little to no guidance?
+There was a time when there was a bug that slowed our backend team down but they couldn't figure out how to fix it. With little guidance I was able to solve it by first,  understanding the code, then breaking the code down into smaller problems to figure out where the exact place of the bug. 
+
+
 10.Describe a time when you had multiple tasks to complete under tight deadlines. How did you prioritize and manage your time?
+I once had to give a client a project but in the due time it wasnt possible to finish all the requirements that was asked of us. What I did the list of unfinished requirements and ranked them based on if they were needed for the project to be  functional and ranked them based on how important they are to the client. Even though I wasn't able to finish all my requirements, I was able to submit something that my client was happy with.
